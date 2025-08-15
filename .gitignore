@@ -1,0 +1,13 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+# Python / venv (not used, but safe)
+__pycache__/
+*.pyc
+# Logs / reports you don't want to commit accidentally
+*.log
+# If you export STIG HTML reports elsewhere, keep them out:
+# /05-security-baselines/reports/
